@@ -1,0 +1,5 @@
+30/8/17
+To Do List
+1) session understanding.
+2) to integrate CI/Jenkins to kibana and reports.
+3) to implement dev test sample logs into kibana.

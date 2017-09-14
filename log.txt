@@ -1,0 +1,1 @@
+2017-08-21--06:27:28.577: ERROR ;                     ; 0     ; LogInfo             ; GetPlatformID        - Exception caught while getting host name: Call was canceled by the message filter. (Exception from HRESULT: 0x80010002 (RPC_E_CALL_CANCELED))

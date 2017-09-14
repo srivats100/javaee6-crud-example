@@ -1,0 +1,10 @@
+8/30/2017 4:07:47 PM [INFO] Starting Process
+8/30/2017 4:07:47 PM [INFO] Arguments captured
+8/30/2017 4:07:47 PM [INFO] Argument [action] is: 1
+8/30/2017 4:07:47 PM [INFO] Argument [Level] is: f
+8/30/2017 4:07:47 PM [INFO] Setting Action to HWinv
+8/30/2017 4:07:47 PM [INFO] Now reset inventory settings-> FULL action!
+8/30/2017 4:07:47 PM [INFO] Creating COM Obj
+8/30/2017 4:07:47 PM [INFO] Debug logging, error:429
+8/30/2017 4:07:47 PM [INFO] Working on init:Hardware Inventory Collection Cycle
+8/30/2017 4:07:47 PM [INFO] Action captured!
